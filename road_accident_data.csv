@@ -1,0 +1,11 @@
+Speed,Weather,Road_Type,Light_Condition,Vehicle_Type,Time_of_Day,Accident_Severity
+60,Clear,Urban,Day,Car,Morning,0
+80,Rainy,Highway,Night,Truck,Night,2
+45,Foggy,Rural,Day,Bike,Morning,0
+90,Rainy,Highway,Night,Car,Night,2
+70,Clear,Urban,Evening,Bike,Evening,1
+85,Foggy,Highway,Night,Truck,Night,2
+50,Clear,Rural,Day,Car,Morning,0
+65,Rainy,Urban,Evening,Bike,Evening,1
+75,Clear,Highway,Day,Car,Afternoon,1
+95,Rainy,Highway,Night,Truck,Night,2
